@@ -43,3 +43,7 @@ Update Status
 - Reddit Research
 - Research Papers
 - Podcast Question Generator
+
+
+## Workflow Screenshot
+![Workflow](workflow.png)
