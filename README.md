@@ -4,10 +4,10 @@ A collection of AI and automation projects built to solve real-world problems in
 
 ## Projects
 
-| Project | Status |
-|----------|----------|
+| Project | Status | Tools Used | AI Model Used
+|----------|----------|----------|----------|
 | AI Research Assistant | Completed |
-| Get Related YT Videos on a Topic | Completed |
+| Get Related YT Videos on a Topic | Completed | Make.com, Youtube Data API V3, Google Workspace | N/A
 | Podcast Research Agent | Planned |
 | Daily Dose Generator | Planned |
 | Guest Research Agent | Planned |
