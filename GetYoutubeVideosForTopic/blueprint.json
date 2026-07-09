@@ -174,7 +174,7 @@
                     },
                     {
                         "name": "key",
-                        "value": "AIzaSyD8knfo82Pi1sSBDLCrgxy2lt31V09pBM8"
+                        "value": "API KEY"
                     }
                 ],
                 "parseResponse": true,
@@ -560,7 +560,7 @@
                     },
                     {
                         "name": "key",
-                        "value": "AIzaSyD8knfo82Pi1sSBDLCrgxy2lt31V09pBM8"
+                        "value": "API KEY"
                     }
                 ],
                 "stopOnHttpError": true,
