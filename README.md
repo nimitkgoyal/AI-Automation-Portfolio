@@ -7,6 +7,7 @@ A collection of AI and automation projects built to solve real-world problems in
 | Project | Status |
 |----------|----------|
 | AI Research Assistant | Completed |
+| Get Related YT Videos on a Topic | Completed |
 | Podcast Research Agent | Planned |
 | Daily Dose Generator | Planned |
 | Guest Research Agent | Planned |
